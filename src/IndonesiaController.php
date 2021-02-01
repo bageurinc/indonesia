@@ -1,10 +1,10 @@
 <?php
-namespace Bageur\Auth;
+namespace Bageur\Indonesia;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bageur\Auth\model\ind_provinsi;
-use Bageur\Auth\model\ind_kota;
+use Bageur\Indonesia\model\ind_provinsi;
+use Bageur\Indonesia\model\ind_kota;
 class IndonesiaController extends Controller
 {
 

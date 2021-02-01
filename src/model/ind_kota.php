@@ -1,6 +1,6 @@
 <?php
 
-namespace Bageur\Auth\Model;
+namespace Bageur\Indonesia\Model;
 
 use Illuminate\Database\Eloquent\Model;
 

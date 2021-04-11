@@ -3,8 +3,8 @@ namespace Bageur\Indonesia;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bageur\Indonesia\model\ind_provinsi;
-use Bageur\Indonesia\model\ind_kota;
+use Bageur\Indonesia\Model\ind_provinsi;
+use Bageur\Indonesia\Model\ind_kota;
 class IndonesiaController extends Controller
 {
 
